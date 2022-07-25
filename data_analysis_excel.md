@@ -53,3 +53,11 @@ Look at the __Data Bars / Color Scales / Icon Sets… New Rules / Manage Rules__
 The wealth of __Conditional Formatting__ Functionality
 ![__The wealth of Conditional Formatting Functionality__ !](https://static.wixstatic.com/media/6ce7a7_a713afa4912741089834022d7706e07e~mv2.png)
  
+# LOGICAL FUNCTIONS: “IF”
+First of all… check whether this gives you some good initial info…. Worth 1000 words:
+![Insert function !](https://static.wixstatic.com/media/6ce7a7_44f02506cbb94468890b09e7b08898a0~mv2.png)
+ 
+
+==> __A__  Enter the formula name and click __Go__ to view information on its use ==
+
+==> __B__  Alternatively, select a category type to see a subgroup of functions and how these are used ==
